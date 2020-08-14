@@ -1,7 +1,6 @@
-;Name: Swapnika Pasunuri-U00843540
-;      Vinay Mohan Behara-U00851261
-;EmailId: pasunuri.2@wright.edu
-;         behara.4@wright.edu
+
+;      Vinay Mohan Behara
+
 
 
 
